@@ -716,7 +716,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%91%D0%B0%D1%80%D0%BA%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0_%D0%98%D1%80%D0%B8%D0%BD%D0%B0.md">Баркалова Ирина</a></th>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -760,23 +760,8 @@
       <td></td>
     </tr>
     <tr>
-      <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%92%D0%B5%D1%82%D0%BE%D1%88%D0%BA%D0%B8%D0%BD_%D0%90%D0%90">Ветошкин</a></th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%92%D0%B5%D1%82%D0%BE%D1%88%D0%BA%D0%B8%D0%BD_%D0%90%D1%80%D1%82%D1%91%D0%BC.md">Ветошкин Артём</a></th>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -881,7 +866,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%9A%D1%83%D1%87%D1%83%D0%BC%D0%BE%D0%B2_%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0.md">Кучумов Слава</a></th>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1409,7 +1394,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%97%D1%83%D0%B1%D0%B0%D1%80%D0%B5%D0%B2%D0%B0_%D0%90%D0%9C.md">Зубарева АМ</a></th>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1424,8 +1409,8 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%BE%D0%B2_%D0%94%D0%A1.md">Кириллов ДС</a></th>
-      <td></td>
-      <td></td>
+      <td>1.0</td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1514,7 +1499,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A0%D1%8F%D0%B1%D0%BE%D0%B2%D0%B0_%D0%92%D0%92.md">Рябова ВВ</a></th>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1589,7 +1574,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A5%D0%B8%D0%B6%D0%BD%D1%8F%D0%BA%D0%BE%D0%B2_%D0%92%D0%9C.md">Хижняков ВМ</a></th>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
