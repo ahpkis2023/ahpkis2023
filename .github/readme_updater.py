@@ -42,7 +42,7 @@ def process_log(log: str) -> pd.DataFrame:
 
 def main():
     g = Github(os.environ['GITHUB_TOKEN'])
-    repo = g.get_repo('xopclabs/ahpkis2023')
+    repo = g.get_repo('ahpkis2023/ahpkis2023')
     groups = [c.path for c in repo.get_contents('') if not c.path.startswith('.') and c.path != 'README.md']
     readme = '# АХП КИС 2023\n\n'
     for group in groups:
