@@ -11,7 +11,6 @@ permissions:
 jobs:
   update_readme:
     runs-on: ubuntu-latest
-    permissions: write-all
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-python@v4
@@ -24,5 +23,5 @@ jobs:
             if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Run script
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/readme_updater.py
