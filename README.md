@@ -308,7 +308,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%A3%D0%B4%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0_%D0%9A.md">Удодова К</a></th>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -602,7 +602,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%A2%D0%BE%D1%85%D1%81%D1%8B%D1%80%D0%BE%D0%B2_%D0%9A%D0%90.md">Тохсыров КА</a></th>
-      <td>-0.5</td>
+      <td>0.5</td>
       <td></td>
       <td></td>
       <td></td>
@@ -686,7 +686,7 @@
   <tbody>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%90%D0%BB%D1%91%D1%88%D0%B8%D0%BD_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80.md">Алёшин Александр</a></th>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -701,7 +701,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D1%81_%D0%90%D0%BD%D0%BD%D0%B0.md">Балабас Анна</a></th>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -851,7 +851,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%9A%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0%D0%BB%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0_%D0%A1%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0.md">Коноваликова Светлана</a></th>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1280,7 +1280,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%A2%D0%B0%D1%85%D1%82%D0%B0%D0%BC%D1%8B%D1%88%D0%B5%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0.md">Тахтамышева Анна</a></th>
-      <td></td>
+      <td>0.5</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1529,7 +1529,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A1%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2_%D0%9C%D0%90.md">Смыслов МА</a></th>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
