@@ -1,0 +1,27 @@
+name: readme_updater
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+            python -m pip install --upgrade pip
+            pip install pandas pygithub regex
+            if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Run script
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python .github/readme_updater.py
