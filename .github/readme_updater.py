@@ -48,7 +48,9 @@ def main():
     for group in groups:
         group_table = process_group(group, repo)
         readme += f'## {group}\n\n' + group_table.to_html(index_names=False, escape=False) + '\n\n'
-    repo.update_file('README.md', 'Update README.md', readme, repo.get_contents('README.md').sha)
+    readme_contents = repo.get_contents('README.md')
+    if readme_contents.decoded_content.decode('utf-8') != readme:
+        repo.update_file('README.md', 'Update README.md', readme, readme_contents.sha)
 
 
 if __name__ == '__main__':
