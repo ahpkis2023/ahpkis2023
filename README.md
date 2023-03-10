@@ -955,7 +955,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0.md">Миронова Александра</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2177,7 +2177,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%9A%D0%BE%D0%B2%D0%B0%D0%BB%D1%8C_%D0%98%D0%B2%D0%B0%D0%BD.md">Коваль Иван</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
