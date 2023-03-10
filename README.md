@@ -1814,7 +1814,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-102%D0%91/%D0%A7%D0%B8%D0%B2%D0%B0%D1%80%D0%B7%D0%B8%D0%BD_AE.md">Чиварзин AE</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1976,7 +1976,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-104%D0%91/%D0%A8%D0%B0%D0%BD%D0%B0%D1%83%D1%80%D0%B8%D0%BD%D0%B0_%D0%95%D0%93.md">Шанаурина ЕГ</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
