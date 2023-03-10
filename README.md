@@ -1204,7 +1204,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%9A%D1%80%D0%B0%D0%B2%D1%86%D0%BE%D0%B2_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9.md">Кравцов Андрей</a></th>
       <td></td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1709,7 +1709,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A8%D0%BA%D0%B0%D1%80%D0%B8%D0%BD_%D0%95%D0%90.md">Шкарин ЕА</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
