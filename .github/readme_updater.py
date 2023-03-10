@@ -14,9 +14,10 @@ def process_group(group: str, repo: Repository) -> pd.DataFrame:
         df = process_log(log)
         student_row = {'student': f'<a href="{url}">{student[:-3].replace("_", " ")}</a>'}
         for _, r in df.iterrows():
-            student_row[str(r['lab'])] = r['score']
+            student_row[str(r['lab'])] = max(r['score'], 0)
         group_table = pd.concat([group_table, pd.DataFrame([student_row])])
     group_table = group_table.set_index('student', drop=True)
+    group_table['sum'] = group_table.fillna(0).sum(axis=1)
     group_table = group_table.applymap(lambda x: '' if pd.isna(x) else str(x))
     return group_table
 
