@@ -1365,7 +1365,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%92%D0%92.md">Богданова ВВ</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1395,7 +1395,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%97%D1%83%D0%B1%D0%B0%D1%80%D0%B5%D0%B2%D0%B0_%D0%90%D0%9C.md">Зубарева АМ</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1515,7 +1515,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A1%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2_%D0%9C%D0%90.md">Смыслов МА</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1590,7 +1590,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A8%D0%B8%D1%80%D1%88%D0%BE%D0%B2_%D0%90%D0%A1.md">Ширшов АС</a></th>
       <td></td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2016,7 +2016,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%95%D0%BB%D0%B8%D1%81%D0%B5%D0%B5%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2.md">Елисеев Владислав</a></th>
       <td></td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
