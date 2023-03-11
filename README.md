@@ -57,7 +57,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%90%D0%BD%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2_%D0%9D.md">Анцифров Н</a></th>
       <td></td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -73,7 +73,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%91%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0_%D0%9A.md">Бессонова К</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -185,7 +185,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%93%D1%80%D0%B8%D1%88%D0%B8%D0%BD_%D0%A1.md">Гришин С</a></th>
       <td></td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -482,18 +482,18 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%92%D0%B5%D1%80%D0%B5%D0%B2%D0%BA%D0%B8%D0%BD%D0%B0_%D0%94%D0%92.md">Веревкина ДВ</a></th>
       <td>1.0</td>
-      <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td>1.0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%92%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A1%D0%A1.md">Винников СС</a></th>
