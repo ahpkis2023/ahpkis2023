@@ -1268,7 +1268,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%9D%D0%BE%D1%81%D0%BE%D0%B2%D0%B0_%D0%AD%D0%BB%D0%B8%D0%BD%D0%B0.md">Носова Элина</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1348,7 +1348,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%A2%D0%B0%D1%85%D1%82%D0%B0%D0%BC%D1%8B%D1%88%D0%B5%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0.md">Тахтамышева Анна</a></th>
       <td>0.5</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1533,7 +1533,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%D0%B2_%D0%9F%D0%92.md">Озеров ПВ</a></th>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
