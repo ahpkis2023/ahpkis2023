@@ -31,7 +31,7 @@ def process_log(log: str) -> pd.DataFrame:
         rows.append({
             'lab': int(lab),
             'teacher': teacher,
-            'date': datetime.strptime(date, '%d.%m.%y'),
+            # 'date': datetime.strptime(date, '%d.%m.%y'),
             'score': float(score),
             'note': note
         })
