@@ -1693,7 +1693,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A8%D0%B8%D1%80%D1%88%D0%BE%D0%B2_%D0%90%D0%A1.md">Ширшов АС</a></th>
       <td>0.5</td>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1704,7 +1704,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>0.5</td>
+      <td>1.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A8%D0%BA%D0%B0%D1%80%D0%B8%D0%BD_%D0%95%D0%90.md">Шкарин ЕА</a></th>
