@@ -123,7 +123,7 @@
       <td>1.0</td>
       <td>0.0</td>
       <td></td>
-      <td>0.0</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
@@ -155,7 +155,6 @@
       <td>1.0</td>
       <td>0.0</td>
       <td></td>
-      <td>-0.1</td>
       <td></td>
       <td></td>
       <td></td>
@@ -164,7 +163,8 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>0.9</td>
+      <td></td>
+      <td>1.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B5%D0%B2_%D0%A1.md">Голубев С</a></th>
@@ -265,22 +265,23 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9F%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BA%D0%BE_%D0%A1.md">Петренко С</a></th>
       <td>1.0</td>
-      <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td>1.0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>2.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A4.md">Плотников Ф</a></th>
       <td>1.5</td>
+      <td>0.5</td>
       <td></td>
       <td></td>
       <td></td>
@@ -291,8 +292,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>1.5</td>
+      <td>2.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2_%D0%9D.md">Попов Н</a></th>
