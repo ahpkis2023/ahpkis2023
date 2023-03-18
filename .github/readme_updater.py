@@ -17,7 +17,7 @@ def process_group(group: str, repo: Repository) -> pd.DataFrame:
             student_row[str(r['lab'])] = r['score']
         group_table = pd.concat([group_table, pd.DataFrame([student_row])])
     group_table = group_table.set_index('student', drop=True)
-    group_table['sum'] = group_table.fillna(0).sum(axis=1)
+    group_table['sum'] = f'{group_table.fillna(0).sum(axis=1):.1f}'
     group_table = group_table.applymap(lambda x: '' if pd.isna(x) else str(x))
     return group_table
 
