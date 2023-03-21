@@ -514,7 +514,8 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%D0%B0_%D0%90%D0%92.md">Воронцова АВ</a></th>
       <td>1.0</td>
-      <td>0.2</td>
+      <td>1.0</td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -524,8 +525,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>1.2</td>
+      <td>3.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%97%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2_%D0%94%D0%90.md">Заузолков ДА</a></th>
@@ -2146,6 +2146,7 @@
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%95%D0%BB%D0%B8%D1%81%D0%B5%D0%B5%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2.md">Елисеев Владислав</a></th>
       <td>0.5</td>
       <td>0.0</td>
+      <td>0.8</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2155,8 +2156,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>0.5</td>
+      <td>1.3</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80.md">Калин Владимир</a></th>
