@@ -1814,7 +1814,8 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-102%D0%91/%D0%A7%D0%B8%D0%B2%D0%B0%D1%80%D0%B7%D0%B8%D0%BD_AE.md">Чиварзин AE</a></th>
       <td>1.0</td>
-      <td>0.0</td>
+      <td>0.7</td>
+      <td>1.4</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1824,8 +1825,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>1.0</td>
+      <td>3.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-102%D0%91/%D0%AF%D1%80o%D0%B2%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9C%D0%92.md">Ярoвенко МВ</a></th>
@@ -1929,6 +1929,7 @@
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-104%D0%91/%D0%9A%D0%B0%D1%80%D0%BF%D0%BE%D0%B2_%D0%98%D0%95.md">Карпов ИЕ</a></th>
       <td>0.5</td>
       <td></td>
+      <td>1.1</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1938,8 +1939,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>0.5</td>
+      <td>1.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-104%D0%91/%D0%A0%D1%83%D0%B1%D0%B8%D0%BD_%D0%A0%D0%9E.md">Рубин РО</a></th>
@@ -1960,7 +1960,8 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-104%D0%91/%D0%A1%D0%B5%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90%D0%90.md">Семенова АА</a></th>
       <td>0.5</td>
-      <td>0.0</td>
+      <td>0.6</td>
+      <td>1.3</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1970,13 +1971,13 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>0.5</td>
+      <td>2.4</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-104%D0%91/%D0%A8%D0%B0%D0%BD%D0%B0%D1%83%D1%80%D0%B8%D0%BD%D0%B0_%D0%95%D0%93.md">Шанаурина ЕГ</a></th>
       <td>1.0</td>
-      <td>0.0</td>
+      <td>0.8</td>
+      <td>1.4</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1986,8 +1987,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>1.0</td>
+      <td>3.2</td>
     </tr>
   </tbody>
 </table>
@@ -2290,7 +2290,7 @@
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%A1%D1%82%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0.md">Стадник Елена</a></th>
       <td>-0.5</td>
       <td></td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
