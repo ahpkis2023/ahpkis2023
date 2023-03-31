@@ -1442,13 +1442,13 @@
       <td></td>
       <td></td>
       <td>-0.1</td>
+      <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>1.6</td>
+      <td>1.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%91%D0%BE%D0%B3%D0%B4%D0%B0%D0%BD%D0%BE%D0%B2%D0%B0_%D0%92%D0%92.md">Богданова ВВ</a></th>
@@ -1506,13 +1506,13 @@
       <td>1.0</td>
       <td></td>
       <td></td>
+      <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>4.5</td>
+      <td>4.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9A%D0%BE%D0%B6%D0%B8%D0%B5%D0%B2_%D0%A2%D0%9A.md">Кожиев ТК</a></th>
@@ -1554,13 +1554,13 @@
       <td>1.0</td>
       <td></td>
       <td></td>
+      <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>4.4</td>
+      <td>4.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2_%D0%98%D0%90.md">Петров ИА</a></th>
@@ -1602,13 +1602,13 @@
       <td></td>
       <td></td>
       <td></td>
+      <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>2.8</td>
+      <td>2.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A1%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2_%D0%9C%D0%90.md">Смыслов МА</a></th>
@@ -1634,13 +1634,13 @@
       <td></td>
       <td></td>
       <td>-0.1</td>
+      <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>1.9</td>
+      <td>2.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A4%D0%B8%D0%BD%D0%BA_%D0%94%D0%94.md">Финк ДД</a></th>
@@ -1698,13 +1698,13 @@
       <td></td>
       <td></td>
       <td></td>
+      <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>3.0</td>
+      <td>3.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A8%D0%BA%D0%B0%D1%80%D0%B8%D0%BD_%D0%95%D0%90.md">Шкарин ЕА</a></th>
@@ -1714,13 +1714,13 @@
       <td></td>
       <td></td>
       <td></td>
+      <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>2.6</td>
+      <td>2.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%9C%D0%90.md">Яковлев МА</a></th>
