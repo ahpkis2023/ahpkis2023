@@ -301,14 +301,14 @@
       <td></td>
       <td>-0.1</td>
       <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td>-0.1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>-0.2</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%A1%D1%82%D1%80%D0%B8%D1%85%D0%B0%D1%80_%D0%9F.md">Стрихар П</a></th>
