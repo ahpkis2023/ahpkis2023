@@ -66,9 +66,9 @@
       <td></td>
       <td></td>
       <td>5.0</td>
+      <td>2.5</td>
       <td></td>
-      <td></td>
-      <td>8.6</td>
+      <td>11.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%91%D0%B5%D1%81%D1%81%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0_%D0%9A.md">Бессонова К</a></th>
@@ -233,66 +233,66 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9C%D1%83%D1%85%D0%B0%D0%BD%D0%BE%D0%B2_%D0%95.md">Муханов Е</a></th>
       <td>1.0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.7</td>
+      <td>1.5</td>
       <td>1.0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5.0</td>
+      <td>2.5</td>
+      <td></td>
+      <td>11.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9D%D0%BE%D0%B7%D0%B4%D1%80%D0%BE%D0%B2%D0%B0_%D0%92.md">Ноздрова В</a></th>
       <td>1.5</td>
       <td>0.9</td>
       <td>1.5</td>
-      <td>-0.1</td>
+      <td>1.0</td>
       <td></td>
       <td>-0.1</td>
       <td></td>
       <td></td>
       <td></td>
+      <td>5.0</td>
+      <td>3.0</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>3.7</td>
+      <td>12.8</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9F%D0%B5%D1%82%D1%80%D0%B5%D0%BD%D0%BA%D0%BE_%D0%A1.md">Петренко С</a></th>
       <td>1.0</td>
       <td>1.0</td>
       <td>1.4</td>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
+      <td>5.0</td>
+      <td>2.5</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>3.5</td>
+      <td>12.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A4.md">Плотников Ф</a></th>
       <td>1.5</td>
       <td>0.5</td>
       <td>0.7</td>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
+      <td>4.0</td>
+      <td>2.5</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>2.8</td>
+      <td>10.3</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9F%D0%BE%D0%BF%D0%BE%D0%B2_%D0%9D.md">Попов Н</a></th>
@@ -305,42 +305,42 @@
       <td></td>
       <td></td>
       <td></td>
+      <td>0.0</td>
+      <td>2.0</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>-0.1</td>
+      <td>1.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%A1%D1%82%D1%80%D0%B8%D1%85%D0%B0%D1%80_%D0%9F.md">Стрихар П</a></th>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>-0.1</td>
+      <td>0.3</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.7</td>
       <td></td>
       <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
+      <td>0.5</td>
+      <td>3.0</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>0.0</td>
+      <td>4.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%A3%D0%B4%D0%BE%D0%B4%D0%BE%D0%B2%D0%B0_%D0%9A.md">Удодова К</a></th>
       <td>1.5</td>
       <td>1.0</td>
       <td>1.4</td>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
+      <td>5.0</td>
+      <td>2.5</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>4.0</td>
+      <td>12.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2_%D0%98.md">Федоров И</a></th>
@@ -353,10 +353,10 @@
       <td></td>
       <td></td>
       <td></td>
+      <td>0.0</td>
+      <td>0.5</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>-0.7</td>
+      <td>-0.2</td>
     </tr>
   </tbody>
 </table>
