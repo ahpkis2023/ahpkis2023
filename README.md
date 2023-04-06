@@ -2081,22 +2081,23 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%92%D0%B0%D1%81%D1%8F%D0%BD%D0%B8%D0%BD_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0.md">Васянин Никита</a></th>
       <td>1.0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.9</td>
+      <td>1.3</td>
       <td>1.0</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>5.0</td>
+      <td>2.5</td>
+      <td></td>
+      <td>11.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%92%D0%B5%D0%B4%D0%B5%D0%BD%D0%B5%D0%B5%D0%B2%D0%B0_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0.md">Веденеева Екатерина</a></th>
       <td>-0.5</td>
+      <td>0.0</td>
       <td>0.0</td>
       <td></td>
       <td></td>
@@ -2104,9 +2105,8 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>-0.5</td>
     </tr>
