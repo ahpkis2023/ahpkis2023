@@ -2208,8 +2208,8 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%9D%D0%B5%D0%B7%D0%B0%D0%BC%D0%B5%D1%82%D0%B4%D0%B8%D0%BD%D0%BE%D0%B2_%D0%A2%D0%B8%D0%BC%D1%83%D1%80.md">Незаметдинов Тимур</a></th>
-      <td></td>
-      <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td>0.6</td>
       <td></td>
       <td></td>
@@ -2217,26 +2217,26 @@
       <td></td>
       <td></td>
       <td></td>
+      <td>1.0</td>
+      <td>0.0</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>0.6</td>
+      <td>1.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%9F%D0%B0%D0%BA%D0%B0%D0%BB%D0%BE_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80.md">Пакало Александр</a></th>
       <td>1.0</td>
       <td>0.9</td>
       <td>1.4</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
+      <td>5.0</td>
+      <td>5.0</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>3.4</td>
+      <td>13.4</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%9F%D0%BB%D0%B5%D1%88%D0%B0%D0%BA%D0%BE%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2.md">Плешаков Владислав</a></th>
