@@ -50,9 +50,9 @@
       <td></td>
       <td></td>
       <td>3.0</td>
-      <td>4.0</td>
+      <td>4.3</td>
       <td></td>
-      <td>9.9</td>
+      <td>10.2</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%90%D0%BD%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2_%D0%9D.md">Анцифров Н</a></th>
