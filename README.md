@@ -650,10 +650,10 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>4.0</td>
       <td>3.0</td>
       <td></td>
-      <td>5.6</td>
+      <td>9.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%A4%D0%B5%D0%B4%D0%BE%D1%81%D0%B5%D0%B5%D0%B2%D0%B0_%D0%95%D0%AE.md">Федосеева ЕЮ</a></th>
