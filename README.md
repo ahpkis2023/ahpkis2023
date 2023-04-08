@@ -956,17 +956,17 @@
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0.md">Миронова Александра</a></th>
       <td>1.0</td>
       <td>1.0</td>
-      <td>0.6</td>
+      <td>0.8</td>
       <td>1.0</td>
       <td></td>
       <td>0.1</td>
       <td></td>
       <td></td>
       <td></td>
-      <td>4.3</td>
+      <td>4.5</td>
       <td>3.5</td>
       <td></td>
-      <td>11.5</td>
+      <td>11.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%9D%D0%B0%D0%BA%D0%B0%D0%B7%D0%BD%D0%BE%D0%B9_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0.md">Наказной Никита</a></th>
@@ -1261,9 +1261,9 @@
       <td></td>
       <td></td>
       <td>4.7</td>
-      <td>2.5</td>
+      <td>2.8</td>
       <td></td>
-      <td>10.9</td>
+      <td>11.2</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%9D%D0%BE%D1%81%D0%BE%D0%B2%D0%B0_%D0%AD%D0%BB%D0%B8%D0%BD%D0%B0.md">Носова Элина</a></th>
