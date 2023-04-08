@@ -1589,96 +1589,97 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>1.0</td>
+      <td>3.7</td>
+      <td>4.0</td>
       <td></td>
-      <td></td>
-      <td>3.1</td>
+      <td>9.8</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A0%D1%8F%D0%B1%D0%BE%D0%B2%D0%B0_%D0%92%D0%92.md">Рябова ВВ</a></th>
       <td>1.0</td>
       <td>1.0</td>
       <td>0.8</td>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td>0.1</td>
       <td></td>
       <td></td>
+      <td>4.8</td>
+      <td>1.0</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>2.9</td>
+      <td>9.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A1%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2_%D0%9C%D0%90.md">Смыслов МА</a></th>
       <td>1.0</td>
-      <td>0.0</td>
+      <td>0.7</td>
       <td>0.8</td>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td>-0.1</td>
       <td></td>
       <td></td>
       <td></td>
+      <td>4.5</td>
+      <td>3.5</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>1.7</td>
+      <td>11.4</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A3%D1%80%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0_%D0%95%D0%90.md">Уралова ЕА</a></th>
       <td>1.0</td>
-      <td>0.5</td>
-      <td>0.5</td>
-      <td></td>
+      <td>0.6</td>
+      <td>0.6</td>
+      <td>0.8</td>
       <td></td>
       <td>-0.1</td>
       <td>0.1</td>
       <td></td>
       <td></td>
+      <td>3.5</td>
+      <td>3.5</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>2.0</td>
+      <td>10.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A4%D0%B8%D0%BD%D0%BA_%D0%94%D0%94.md">Финк ДД</a></th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>-0.1</td>
       <td></td>
       <td></td>
       <td></td>
-      <td>-0.1</td>
+      <td>0.0</td>
+      <td>4.0</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>-0.2</td>
+      <td>3.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A4%D1%80%D0%BE%D0%BB%D0%BE%D0%B2_%D0%94.md">Фролов Д</a></th>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>-0.1</td>
       <td></td>
       <td></td>
       <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td></td>
       <td>-0.1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>-0.2</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A5%D0%B8%D0%B6%D0%BD%D1%8F%D0%BA%D0%BE%D0%B2_%D0%92%D0%9C.md">Хижняков ВМ</a></th>
       <td>1.0</td>
       <td>1.0</td>
       <td>0.7</td>
+      <td>0.5</td>
       <td></td>
       <td></td>
       <td></td>
@@ -1687,8 +1688,7 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>2.7</td>
+      <td>3.2</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A8%D0%B8%D1%80%D1%88%D0%BE%D0%B2_%D0%90%D0%A1.md">Ширшов АС</a></th>
