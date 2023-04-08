@@ -1510,41 +1510,41 @@
       <td></td>
       <td></td>
       <td>5.0</td>
-      <td>0.0</td>
+      <td>4.0</td>
       <td></td>
-      <td>9.6</td>
+      <td>13.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9A%D0%BE%D0%B6%D0%B8%D0%B5%D0%B2_%D0%A2%D0%9A.md">Кожиев ТК</a></th>
       <td>1.0</td>
-      <td>-0.1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td>0.9</td>
-    </tr>
-    <tr>
-      <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%D0%B2_%D0%9F%D0%92.md">Озеров ПВ</a></th>
-      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
+      <td>0.0</td>
+      <td>4.0</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%D0%B2_%D0%9F%D0%92.md">Озеров ПВ</a></th>
       <td>1.0</td>
+      <td>0.3</td>
+      <td>1.0</td>
+      <td>0.8</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>4.3</td>
+      <td>3.5</td>
+      <td></td>
+      <td>10.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%A1%D0%92.md">Очеретная СВ</a></th>
@@ -1557,26 +1557,26 @@
       <td>0.1</td>
       <td></td>
       <td></td>
+      <td>5.0</td>
+      <td>2.5</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td>4.5</td>
+      <td>12.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9F%D0%B5%D1%82%D1%80%D0%BE%D0%B2_%D0%98%D0%90.md">Петров ИА</a></th>
-      <td></td>
-      <td>-0.1</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td></td>
+      <td>0.0</td>
+      <td>3.5</td>
       <td></td>
-      <td>-0.1</td>
+      <td>3.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD%D0%BE%D0%B2_%D0%94%D0%90.md">Родионов ДА</a></th>
@@ -1589,10 +1589,10 @@
       <td></td>
       <td></td>
       <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
-      <td></td>
-      <td>2.1</td>
+      <td>3.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A0%D1%8F%D0%B1%D0%BE%D0%B2%D0%B0_%D0%92%D0%92.md">Рябова ВВ</a></th>
