@@ -216,7 +216,7 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9C%D0%B0%D1%80%D1%82%D1%8B%D0%BD%D0%BE%D0%B2%D0%B0_%D0%9F.md">Мартынова П</a></th>
-      <td>1.0</td>
+      <td>1.5</td>
       <td>0.7</td>
       <td>1.1</td>
       <td>0.4</td>
@@ -225,10 +225,10 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4.0</td>
+      <td>5.0</td>
       <td>3.0</td>
       <td></td>
-      <td>10.1</td>
+      <td>11.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9C%D1%83%D1%85%D0%B0%D0%BD%D0%BE%D0%B2_%D0%95.md">Муханов Е</a></th>
@@ -1533,7 +1533,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9E%D0%B7%D0%B5%D1%80%D0%BE%D0%B2_%D0%9F%D0%92.md">Озеров ПВ</a></th>
       <td>1.0</td>
-      <td>0.3</td>
+      <td>0.7</td>
       <td>1.0</td>
       <td>0.8</td>
       <td></td>
@@ -1541,10 +1541,10 @@
       <td></td>
       <td></td>
       <td></td>
-      <td>4.3</td>
+      <td>4.5</td>
       <td>3.5</td>
       <td></td>
-      <td>10.9</td>
+      <td>11.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%9E%D1%87%D0%B5%D1%80%D0%B5%D1%82%D0%BD%D0%B0%D1%8F_%D0%A1%D0%92.md">Очеретная СВ</a></th>
