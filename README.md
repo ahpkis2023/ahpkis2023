@@ -1715,12 +1715,12 @@
       <td></td>
       <td>0.1</td>
       <td>0.1</td>
-      <td></td>
+      <td>0.1</td>
       <td></td>
       <td>4.8</td>
       <td>3.0</td>
       <td></td>
-      <td>11.6</td>
+      <td>11.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%9C%D0%90.md">Яковлев МА</a></th>
