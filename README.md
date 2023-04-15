@@ -1256,14 +1256,14 @@
       <td>1.0</td>
       <td>1.0</td>
       <td>0.2</td>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td>0.2</td>
       <td></td>
       <td>4.7</td>
       <td>2.8</td>
       <td></td>
-      <td>11.7</td>
+      <td>12.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%9D%D0%BE%D1%81%D0%BE%D0%B2%D0%B0_%D0%AD%D0%BB%D0%B8%D0%BD%D0%B0.md">Носова Элина</a></th>
@@ -1354,12 +1354,12 @@
       <td></td>
       <td></td>
       <td></td>
-      <td></td>
+      <td>0.2</td>
       <td></td>
       <td>4.0</td>
       <td>3.0</td>
       <td></td>
-      <td>10.5</td>
+      <td>10.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%A4%D1%83%D1%80%D0%B0%D1%81%D0%BE%D0%B2_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D1%81%D0%BB%D0%B0%D0%B2.md">Фурасов Владислав</a></th>
