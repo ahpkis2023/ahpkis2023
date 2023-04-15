@@ -157,14 +157,14 @@
       <td>1.1</td>
       <td>0.5</td>
       <td></td>
-      <td>-0.1</td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
       <td>5.0</td>
       <td>2.5</td>
       <td></td>
-      <td>11.2</td>
+      <td>11.3</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%93%D0%BE%D0%BB%D1%83%D0%B1%D0%B5%D0%B2_%D0%A1.md">Голубев С</a></th>
