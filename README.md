@@ -2115,7 +2115,7 @@
       <td>1.5</td>
       <td>0.0</td>
       <td>0.7</td>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td></td>
@@ -2124,7 +2124,7 @@
       <td>3.0</td>
       <td>2.5</td>
       <td></td>
-      <td>7.7</td>
+      <td>8.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%95%D0%B2%D1%81%D0%B5%D0%B5%D0%B2_%D0%93%D0%B5%D0%BE%D1%80%D0%B3%D0%B8%D0%B9.md">Евсеев Георгий</a></th>
@@ -2150,13 +2150,13 @@
       <td></td>
       <td></td>
       <td>0.1</td>
-      <td>0.1</td>
+      <td>1.1</td>
       <td></td>
       <td></td>
       <td>4.0</td>
       <td>2.5</td>
       <td></td>
-      <td>9.2</td>
+      <td>10.2</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%9A%D0%B0%D0%BB%D0%B8%D0%BD_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80.md">Калин Владимир</a></th>
