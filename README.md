@@ -565,15 +565,15 @@
       <td>0.7</td>
       <td>1.5</td>
       <td>1.0</td>
-      <td></td>
-      <td>-0.4</td>
-      <td></td>
+      <td>1.0</td>
+      <td>0.3</td>
+      <td>0.8</td>
       <td></td>
       <td></td>
       <td>5.0</td>
       <td>3.0</td>
       <td></td>
-      <td>12.3</td>
+      <td>14.8</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%9B%D0%B5%D0%B2%D0%B8%D0%BD_%D0%9C%D0%90.md">Левин МА</a></th>
