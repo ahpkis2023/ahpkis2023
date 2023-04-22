@@ -206,13 +206,13 @@
       <td>0.8</td>
       <td>1.0</td>
       <td>1.1</td>
-      <td></td>
+      <td>1.0</td>
       <td>1.0</td>
       <td></td>
       <td>5.0</td>
       <td>3.0</td>
       <td></td>
-      <td>15.4</td>
+      <td>16.4</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9C%D0%B0%D1%80%D1%82%D1%8B%D0%BD%D0%BE%D0%B2%D0%B0_%D0%9F.md">Мартынова П</a></th>
@@ -270,13 +270,13 @@
       <td>1.0</td>
       <td>0.9</td>
       <td>0.8</td>
-      <td></td>
-      <td>0.2</td>
+      <td>0.8</td>
+      <td>1.1</td>
       <td></td>
       <td>5.0</td>
       <td>2.5</td>
       <td></td>
-      <td>13.8</td>
+      <td>15.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A4.md">Плотников Ф</a></th>
@@ -333,14 +333,14 @@
       <td>1.4</td>
       <td>1.0</td>
       <td>1.5</td>
-      <td>0.1</td>
+      <td>0.6</td>
       <td></td>
-      <td>0.2</td>
+      <td>1.2</td>
       <td></td>
       <td>5.0</td>
       <td>2.5</td>
       <td></td>
-      <td>14.2</td>
+      <td>15.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%A4%D0%B5%D0%B4%D0%BE%D1%80%D0%BE%D0%B2_%D0%98.md">Федоров И</a></th>
@@ -485,15 +485,15 @@
       <td>1.0</td>
       <td>1.5</td>
       <td>0.9</td>
-      <td></td>
+      <td>1.0</td>
       <td>0.3</td>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td></td>
       <td>5.0</td>
       <td>3.0</td>
       <td></td>
-      <td>12.7</td>
+      <td>14.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%92%D0%B8%D0%BD%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2_%D0%A1%D0%A1.md">Винников СС</a></th>
@@ -517,15 +517,15 @@
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.3</td>
+      <td>0.8</td>
+      <td>0.5</td>
+      <td>0.5</td>
       <td></td>
       <td>5.0</td>
       <td>3.0</td>
       <td></td>
-      <td>12.0</td>
+      <td>14.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%97%D0%B0%D1%83%D0%B7%D0%BE%D0%BB%D0%BA%D0%BE%D0%B2_%D0%94%D0%90.md">Заузолков ДА</a></th>
