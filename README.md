@@ -204,15 +204,15 @@
       <td>1.0</td>
       <td>1.5</td>
       <td>0.8</td>
-      <td>0.5</td>
-      <td>0.1</td>
+      <td>1.0</td>
+      <td>1.1</td>
       <td></td>
-      <td>0.2</td>
+      <td>1.0</td>
       <td></td>
       <td>5.0</td>
       <td>3.0</td>
       <td></td>
-      <td>13.1</td>
+      <td>15.4</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9C%D0%B0%D1%80%D1%82%D1%8B%D0%BD%D0%BE%D0%B2%D0%B0_%D0%9F.md">Мартынова П</a></th>
@@ -1819,13 +1819,13 @@
       <td>0.5</td>
       <td>1.5</td>
       <td>0.4</td>
-      <td>0.0</td>
+      <td>1.0</td>
       <td>1.0</td>
       <td></td>
       <td>5.0</td>
       <td>3.5</td>
       <td></td>
-      <td>15.0</td>
+      <td>16.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-102%D0%91/%D0%AF%D1%80o%D0%B2%D0%B5%D0%BD%D0%BA%D0%BE_%D0%9C%D0%92.md">Ярoвенко МВ</a></th>
@@ -1931,15 +1931,15 @@
       <td>1.0</td>
       <td>1.1</td>
       <td>1.0</td>
-      <td>0.5</td>
+      <td>1.2</td>
       <td>0.8</td>
       <td>1.0</td>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td>4.5</td>
       <td>3.5</td>
       <td></td>
-      <td>13.9</td>
+      <td>15.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-104%D0%91/%D0%A0%D1%83%D0%B1%D0%B8%D0%BD_%D0%A0%D0%9E.md">Рубин РО</a></th>
