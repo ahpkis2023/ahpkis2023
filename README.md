@@ -1600,15 +1600,15 @@
       <td>1.0</td>
       <td>0.8</td>
       <td>1.0</td>
-      <td>0.4</td>
-      <td>0.1</td>
-      <td>0.1</td>
-      <td>0.2</td>
+      <td>0.3</td>
+      <td>0.6</td>
+      <td>0.9</td>
+      <td>1.2</td>
       <td></td>
       <td>4.8</td>
       <td>2.0</td>
       <td></td>
-      <td>11.4</td>
+      <td>13.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A1%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%B2_%D0%9C%D0%90.md">Смыслов МА</a></th>
@@ -1712,15 +1712,15 @@
       <td>1.0</td>
       <td>0.6</td>
       <td>1.0</td>
-      <td></td>
+      <td>0.0</td>
       <td>0.1</td>
-      <td>0.1</td>
-      <td>0.1</td>
+      <td>0.5</td>
+      <td>1.1</td>
       <td></td>
       <td>4.8</td>
       <td>3.0</td>
       <td></td>
-      <td>11.7</td>
+      <td>13.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%9C%D0%90.md">Яковлев МА</a></th>
