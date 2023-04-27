@@ -437,15 +437,15 @@
       <td>0.3</td>
       <td>0.5</td>
       <td>1.0</td>
-      <td></td>
-      <td>-0.4</td>
-      <td></td>
-      <td></td>
+      <td>1.0</td>
+      <td>0.0</td>
+      <td>0.3</td>
+      <td>1.0</td>
       <td></td>
       <td>3.0</td>
       <td>4.0</td>
       <td></td>
-      <td>9.4</td>
+      <td>12.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%92%D0%B0%D0%BD%D0%B8%D0%BD%D0%B0_%D0%9F%D0%92.md">Ванина ПВ</a></th>
