@@ -452,7 +452,7 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td>-0.1</td>
       <td></td>
@@ -532,7 +532,7 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
+      <td>0.0</td>
       <td></td>
       <td>-0.1</td>
       <td></td>
