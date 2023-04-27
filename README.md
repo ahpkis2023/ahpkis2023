@@ -662,14 +662,14 @@
       <td>1.0</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>0.2</td>
+      <td>1.2</td>
       <td>1.0</td>
-      <td></td>
+      <td>1.0</td>
       <td></td>
       <td>5.0</td>
       <td>3.5</td>
       <td></td>
-      <td>14.7</td>
+      <td>16.7</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%A5%D0%B8%D0%B7%D1%80%D0%B8%D0%B5%D0%B2_%D0%90%D0%90.md">Хизриев АА</a></th>
@@ -695,13 +695,13 @@
       <td>1.0</td>
       <td>0.8</td>
       <td>0.4</td>
-      <td></td>
-      <td></td>
+      <td>0.8</td>
+      <td>1.0</td>
       <td></td>
       <td>4.8</td>
       <td>3.5</td>
       <td></td>
-      <td>13.4</td>
+      <td>15.2</td>
     </tr>
   </tbody>
 </table>
