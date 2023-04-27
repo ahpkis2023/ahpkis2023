@@ -391,8 +391,8 @@
       <td>0.6</td>
       <td>0.0</td>
       <td>0.4</td>
-      <td></td>
-      <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>2.5</td>
       <td>2.0</td>
