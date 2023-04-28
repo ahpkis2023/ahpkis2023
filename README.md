@@ -222,13 +222,13 @@
       <td>0.4</td>
       <td>1.2</td>
       <td>0.9</td>
-      <td>0.0</td>
+      <td>0.8</td>
       <td>0.8</td>
       <td></td>
       <td>5.0</td>
       <td>3.0</td>
       <td></td>
-      <td>14.6</td>
+      <td>15.4</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%9C%D1%83%D1%85%D0%B0%D0%BD%D0%BE%D0%B2_%D0%95.md">Муханов Е</a></th>
@@ -616,12 +616,12 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td>0.0</td>
       <td>0.0</td>
       <td></td>
-      <td>0.0</td>
+      <td>1.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%9F%D0%B5%D1%80%D0%BE%D0%B2%D0%B0_%D0%90%D0%95.md">Перова АЕ</a></th>
@@ -910,15 +910,15 @@
       <td>0.8</td>
       <td>1.0</td>
       <td>1.0</td>
-      <td>-0.1</td>
-      <td>0.1</td>
-      <td></td>
-      <td>0.2</td>
+      <td>0.8</td>
+      <td>0.9</td>
+      <td>0.8</td>
+      <td>1.0</td>
       <td></td>
       <td>4.8</td>
       <td>4.0</td>
       <td></td>
-      <td>12.8</td>
+      <td>16.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%9A%D1%83%D1%87%D1%83%D0%BC%D0%BE%D0%B2_%D0%A1%D0%BB%D0%B0%D0%B2%D0%B0.md">Кучумов Слава</a></th>
@@ -942,7 +942,7 @@
       <td>1.0</td>
       <td>1.1</td>
       <td>1.0</td>
-      <td>-0.1</td>
+      <td>0.0</td>
       <td>0.1</td>
       <td></td>
       <td>-0.2</td>
@@ -950,7 +950,7 @@
       <td>5.0</td>
       <td>3.0</td>
       <td></td>
-      <td>12.4</td>
+      <td>12.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%9C%D0%B8%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B0.md">Миронова Александра</a></th>
@@ -1725,7 +1725,7 @@
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2_%D0%9C%D0%90.md">Яковлев МА</a></th>
       <td>1.0</td>
-      <td>0.0</td>
+      <td>0.4</td>
       <td>0.3</td>
       <td>0.5</td>
       <td>1.0</td>
@@ -1736,7 +1736,7 @@
       <td>2.5</td>
       <td>3.0</td>
       <td></td>
-      <td>10.5</td>
+      <td>10.9</td>
     </tr>
   </tbody>
 </table>
