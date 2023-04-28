@@ -27,16 +27,16 @@
       <td>1.5</td>
       <td>0.5</td>
       <td>1.1</td>
+      <td>1.0</td>
+      <td>1.2</td>
+      <td>0.9</td>
       <td>0.8</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
       <td>0.8</td>
       <td></td>
       <td>5.0</td>
       <td>2.0</td>
       <td></td>
-      <td>11.7</td>
+      <td>14.8</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-81%D0%91/%D0%90%D0%B3%D0%BB%D0%B8%D1%87%D0%B5%D0%B5%D0%B2_%D0%9C.md">Агличеев М</a></th>
@@ -733,16 +733,16 @@
       <td>1.0</td>
       <td>0.8</td>
       <td>0.8</td>
-      <td></td>
+      <td>1.0</td>
       <td>0.3</td>
-      <td>0.1</td>
-      <td></td>
-      <td>0.2</td>
+      <td>0.9</td>
+      <td>0.6</td>
+      <td>1.2</td>
       <td></td>
       <td>4.3</td>
       <td>2.0</td>
       <td></td>
-      <td>9.5</td>
+      <td>12.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%91%D0%B0%D0%BB%D0%B0%D0%B1%D0%B0%D1%81_%D0%90%D0%BD%D0%BD%D0%B0.md">Балабас Анна</a></th>
