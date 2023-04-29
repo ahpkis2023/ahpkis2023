@@ -2288,19 +2288,19 @@
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%A1%D1%82%D0%B0%D0%B4%D0%BD%D0%B8%D0%BA_%D0%95%D0%BB%D0%B5%D0%BD%D0%B0.md">Стадник Елена</a></th>
-      <td>-0.5</td>
       <td>0.0</td>
-      <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td>0.0</td>
       <td>0.0</td>
       <td></td>
-      <td>-0.5</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td></td>
+      <td>0.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%A1%D1%82%D0%BE%D0%BB%D1%8F%D1%80%D0%BE%D0%B2%D0%B0_%D0%9E%D0%BB%D1%8C%D0%B3%D0%B0.md">Столярова Ольга</a></th>
