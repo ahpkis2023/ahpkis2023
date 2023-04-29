@@ -1770,30 +1770,30 @@
       <td>0.0</td>
       <td>0.2</td>
       <td>0.8</td>
-      <td>0.0</td>
-      <td>0.0</td>
-      <td>0.0</td>
+      <td>0.5</td>
+      <td>0.8</td>
+      <td>1.0</td>
       <td></td>
       <td>0.0</td>
       <td>4.0</td>
       <td></td>
-      <td>6.0</td>
+      <td>8.3</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-102%D0%91/%D0%9C%D0%B8%D1%85%D0%B0%D0%BB%D0%B5%D0%B2_%D0%A1%D0%94.md">Михалев СД</a></th>
       <td>0.0</td>
-      <td>0.0</td>
+      <td>1.0</td>
       <td>0.0</td>
       <td>0.2</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.8</td>
+      <td>0.5</td>
+      <td>0.8</td>
+      <td>0.8</td>
       <td></td>
       <td>0.0</td>
-      <td>0.0</td>
+      <td>4.0</td>
       <td></td>
-      <td>0.2</td>
+      <td>8.1</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35%D0%A6-102%D0%91/%D0%9F%D1%8B%D0%BB%D0%B0%D0%B5%D0%B2_%D0%91%D0%90.md">Пылаев БА</a></th>
@@ -2084,15 +2084,15 @@
       <td>0.9</td>
       <td>1.3</td>
       <td>1.0</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.0</td>
+      <td>0.1</td>
+      <td>0.7</td>
+      <td>1.0</td>
       <td></td>
       <td>5.0</td>
       <td>2.5</td>
       <td></td>
-      <td>11.7</td>
+      <td>13.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%92%D0%B5%D0%B4%D0%B5%D0%BD%D0%B5%D0%B5%D0%B2%D0%B0_%D0%95%D0%BA%D0%B0%D1%82%D0%B5%D1%80%D0%B8%D0%BD%D0%B0.md">Веденеева Екатерина</a></th>
@@ -2211,16 +2211,16 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.6</td>
-      <td></td>
-      <td></td>
-      <td></td>
       <td>0.0</td>
-      <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td>1.0</td>
       <td>0.0</td>
       <td></td>
-      <td>1.6</td>
+      <td>2.6</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%A0%D0%A25-81%D0%91/%D0%9F%D0%B0%D0%BA%D0%B0%D0%BB%D0%BE_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80.md">Пакало Александр</a></th>
