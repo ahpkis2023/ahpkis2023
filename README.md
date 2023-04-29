@@ -2373,14 +2373,14 @@
       <td>1.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>0.5</td>
+      <td>0.8</td>
+      <td>1.0</td>
       <td></td>
       <td>2.5</td>
       <td>2.0</td>
       <td></td>
-      <td>6.0</td>
+      <td>8.3</td>
     </tr>
   </tbody>
 </table>
