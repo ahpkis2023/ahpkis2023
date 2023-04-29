@@ -392,12 +392,12 @@
       <td>0.0</td>
       <td>0.4</td>
       <td>0.0</td>
-      <td>0.0</td>
+      <td>1.0</td>
       <td></td>
       <td>2.5</td>
       <td>2.0</td>
       <td></td>
-      <td>6.9</td>
+      <td>7.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%91%D0%B0%D0%B1%D0%B8%D0%BD_%D0%90%D0%A1.md">Бабин АС</a></th>
