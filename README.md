@@ -676,16 +676,16 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td>-0.1</td>
-      <td></td>
-      <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>2.0</td>
       <td></td>
-      <td>1.9</td>
+      <td>2.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%A7%D0%B5%D1%81%D1%82%D0%BD%D0%BE%D0%B2%D0%B0_%D0%95%D0%90.md">Честнова ЕА</a></th>
