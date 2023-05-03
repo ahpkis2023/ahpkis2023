@@ -766,15 +766,15 @@
       <td>0.8</td>
       <td>0.5</td>
       <td>1.0</td>
-      <td>-0.1</td>
-      <td>-0.1</td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>3.5</td>
       <td>2.5</td>
       <td></td>
-      <td>8.9</td>
+      <td>9.3</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%91%D0%B0%D1%85%D1%80%D0%B0%D0%BC%D0%BE%D0%B2_%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D0%B0.md">Бахрамов Никита</a></th>
@@ -1097,7 +1097,7 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
+      <td>0.0</td>
       <td>0.8</td>
       <td></td>
       <td>1.0</td>
