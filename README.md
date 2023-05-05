@@ -1128,14 +1128,14 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>2.5</td>
       <td></td>
-      <td>2.3</td>
+      <td>2.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%9A%D0%B0%D1%80%D0%B8%D0%BC%D0%BE%D0%B2_%D0%90%D0%BC%D0%B8%D1%80.md">Каримов Амир</a></th>
