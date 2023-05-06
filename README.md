@@ -1583,16 +1583,16 @@
       <td>1.0</td>
       <td>0.4</td>
       <td>0.8</td>
-      <td></td>
-      <td></td>
-      <td>-0.1</td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>3.7</td>
       <td>4.0</td>
       <td></td>
-      <td>9.6</td>
+      <td>9.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%A0%D1%8F%D0%B1%D0%BE%D0%B2%D0%B0_%D0%92%D0%92.md">Рябова ВВ</a></th>
