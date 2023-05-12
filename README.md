@@ -1037,16 +1037,16 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
-      <td>-0.1</td>
-      <td>-0.1</td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>2.5</td>
       <td></td>
-      <td>2.1</td>
+      <td>2.5</td>
     </tr>
   </tbody>
 </table>
