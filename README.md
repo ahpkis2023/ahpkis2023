@@ -1471,16 +1471,16 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td>-0.1</td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>2.5</td>
       <td></td>
-      <td>2.2</td>
+      <td>2.5</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-85%D0%91/%D0%97%D1%83%D0%B1%D0%B0%D1%80%D0%B5%D0%B2%D0%B0_%D0%90%D0%9C.md">Зубарева АМ</a></th>
