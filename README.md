@@ -1160,14 +1160,14 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>1.0</td>
       <td></td>
-      <td>0.8</td>
+      <td>1.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%9A%D0%B8%D1%80%D0%B5%D0%B5%D0%B2_%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9.md">Киреев Андрей</a></th>
