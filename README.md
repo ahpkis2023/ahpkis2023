@@ -990,15 +990,15 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td>-0.1</td>
-      <td>-0.1</td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>1.0</td>
       <td></td>
-      <td>0.6</td>
+      <td>1.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2_%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC.md">Сергеев Максим</a></th>
