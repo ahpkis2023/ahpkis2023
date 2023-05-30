@@ -533,15 +533,15 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
-      <td>-0.1</td>
-      <td></td>
-      <td></td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>3.0</td>
       <td></td>
-      <td>2.9</td>
+      <td>3.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-82%D0%91/%D0%9A%D0%BE%D1%80%D0%BE%D1%81%D1%82%D0%B5%D0%BB%D0%B5%D0%B2_%D0%90%D0%9C.md">Коростелев АМ</a></th>
