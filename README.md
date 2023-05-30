@@ -1021,16 +1021,16 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>0.0</td>
-      <td></td>
-      <td></td>
-      <td>-0.1</td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>2.0</td>
       <td></td>
-      <td>1.7</td>
+      <td>2.0</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-83%D0%91/%D0%A3%D1%80%D0%B8%D1%81%D1%82%D0%B8%D0%BC%D0%B1%D0%B5%D0%BA_%D0%93%D1%83%D0%BB%D1%8C%D0%B6%D0%B0%D0%B7%D0%B8%D1%80%D0%B0.md">Уристимбек Гульжазира</a></th>
