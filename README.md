@@ -1112,14 +1112,14 @@
       <td>0.0</td>
       <td>0.0</td>
       <td>-0.1</td>
-      <td></td>
-      <td></td>
-      <td>-0.2</td>
+      <td>0.0</td>
+      <td>0.0</td>
+      <td>0.0</td>
       <td></td>
       <td>0.0</td>
       <td>1.0</td>
       <td></td>
-      <td>0.7</td>
+      <td>0.9</td>
     </tr>
     <tr>
       <th><a href="https://github.com/ahpkis2023/ahpkis2023/blob/main/%D0%98%D0%A35-84%D0%91/%D0%97%D0%BE%D0%BD%D0%BE%D0%B2%D0%B0_%D0%90%D0%BD%D0%BD%D0%B0.md">Зонова Анна</a></th>
